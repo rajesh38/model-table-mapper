@@ -7,7 +7,7 @@ This gem allows you to list all **models** with the corresponding **tables** in 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'model_table_mapper', github: 'rajesh38/model-table-mapper'
+gem 'model_table_mapper'
 ```
 
 And then execute:
