@@ -1,4 +1,4 @@
-require "model_table_mapper/version"
+require 'periodic_table/version'
 
 module ModelTableMapper
   def self.list
