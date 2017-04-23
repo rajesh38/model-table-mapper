@@ -19,11 +19,10 @@ Or install it yourself as:
     $ gem install model_table_mapper
 
 ## Usage
-### steps:
-1. Open rails console
-2. execute `ModelTableMapper list`
-
-It will give you the list of models with the corresponding table
+__steps:__
+1. Open rails console.
+2. execute `ModelTableMapper list` to display the list of models with tables.
+3. You can also provide a filename to output the list as a **csv**. Execute `ModelTableMapper list "model-table-list.csv"`. This will generate a csv file with teh given name containing the models with the corresponding tables.
 
 ## Contributing
 
