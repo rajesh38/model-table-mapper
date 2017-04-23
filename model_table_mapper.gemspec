@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rajesh.093038@gmail.com"]
 
   spec.summary       = %q{Ruby gem to list all models with their corrsponding table in the database}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = %q{Ruby gem to list all models with their corrsponding table in the database}
   spec.homepage      = "https://github.com/rajesh38/model-table-mapper"
   spec.license       = "MIT"
 
